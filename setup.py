@@ -16,7 +16,7 @@ if sys.argv[-1] == 'test':
     sys.exit()
 
 setup(
-    name='requests-cache',
+    name='requests-cache-latest',
     packages=['requests_cache',
               'requests_cache.backends',
               'requests_cache.backends.storage'],
