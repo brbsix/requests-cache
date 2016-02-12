@@ -3,8 +3,14 @@
 History
 -------
 
+0.4.11 (2016-02-12)
++++++++++++++++++++
+
+* Ability to force removal of expired entries
+
 0.4.10 (2015-04-28)
 +++++++++++++++++++
+
 * Better transactional handling in sqlite #50, thanks to @rgant
 * Compatibility with streaming in requests >= 2.6.x
 
